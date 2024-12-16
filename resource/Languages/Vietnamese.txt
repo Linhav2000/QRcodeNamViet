@@ -1,0 +1,174 @@
+// Common
+version=Version 2.1.0
+ok=OK
+exit=Thoát
+cancel=Hủy bỏ
+yes=Đồng ý
+no=Từ chối
+error=Lỗi
+warning=Cảnh báo
+close=Đóng lại
+btnFileSelect=Chọn File
+
+// Camera setting
+name=Tên:
+id=ID:
+connectionType=Kết nối:
+brand=Hãng:
+rotateCamera=Xoay ảnh:
+flipCamera=Lật ảnh:
+settingCamera=Cài đặt camera
+cameraChangeTitle=Đổi Camera
+
+// Light setting value
+settingLightValue=Cài đặt giá trị
+saveLightValue=Lưu giá trị đèn
+brand=Brand
+channelAmount=Channel Amount
+
+// Light Setting
+settingLightConnection=Cài đặt kết nối
+lightSettingTitle=Setting Light
+
+// Active point advance setting
+advanceActiveTitle=Cài đặt điểm hoạt động nâng cao
+selectAll=Chọn tất cả
+point=Điểm số
+
+// covert CAD to CSV
+cadInputPath=Đường dẫn file CAD:
+csvOutputPath=Đường dẫn file CSV:
+convert=Convert
+msg_noCADFile=Chưa chọn file CAD đầu vào
+msg_convertSuccessfully=Convert thành công
+msg_noFileCSVOutput=Chưa chọn file CSV đầu ra
+msg_noPointConverted=Không thấy có điểm nào để lưu\nHãy chắc chắn là đã ấn convert, hoặc kiểm tra lại đường dẫn file CAD!
+msg_saveDataSuccessfully=Lưu dữ liệu thành công
+
+// Running Tab
+plcStatusLbl=Trạng Thái PLC
+cameraStatusLbl=Trạng Thái Camera:
+serverStatusLbl=Trạng Thái Server:
+lightStatusLbl=Trạng Thái Đèn:
+
+// Model Setting
+parameter=Cài đặt thông số
+modelNameLbl=Tên Model:
+ref1Lbl=Điểm gốc 1:
+ref2Lbl=Điểm gốc 2:
+ref3Lbl=Điểm gốc 3:
+offsetPointLbl=Điểm offset:
+offsetParmLbl=Giá trị offset:
+conversionLbl=Hệ số pixel sang mm:
+designPathLbl=File design:
+activeFromLbl=Điểm hoạt động từ:
+activeToLbl=đến
+threshLbl=Ngưỡng Ánh sáng:
+ref1SelectBtn=Chọn
+ref2SelectBtn=Chọn
+ref3SelectBtn=Chọn
+offsetPointSelectBtn=Chọn
+calibrationOffsetBtn=Hiệu chuẩn Offset
+getOffsetBtn=Lấy Offset
+designFileSelect=Chọn File
+advanceActiveBtn=Nâng cao
+visionSettingBtn=Cài đặt Vision
+modelTestBtn=Model Test
+saveBtn=Lưu
+addNewModelBtn=Thêm mới Model
+deleteBtn=Xóa
+btnTakeCoefficient=Lấy hệ số
+visionSetting=Cài đặt Vision
+title_noPointExisted=Reference position select
+msg_title_noPointExisted=There is no position existed, please check the design file path!
+title_saveModel=Save Model
+msg_saveModel=Do you want to save changes for model "{}"?
+
+// RU assembly:
+ruRef1Lbl=Điểm gốc RU 1:
+ruRef2Lbl=Điểm gốc RU 2:
+fuRef1Lbl=Điểm gốc FU 1:
+fuRef2Lbl=Điểm gốc FU 2:
+CaliRuOffsetBtn=Hiệu chuẩn RU Offset
+CaliFuOffsetBtn=Hiệu chuẩn FU Offset
+conversionRuLbl=Pixel sang mm RU:
+conversionFuLbl=Pixel sang mm FU:
+btnTakeRuCoefficient=Lấy hệ số RU
+btnTakeFuCoefficient=Lấy hệ số FU
+
+
+//Main Window
+camera=Camera
+setting=Cài đặt
+connect=Kết nối
+disconnect=Ngắt kết nối
+capturePicture=Chụp ảnh
+captureVideo=Quay Video
+stopCaptureVideo=Dừng quay video
+image=Ảnh
+blackImage=Ảnh Đen
+whiteImage=Ảnh Trắng
+new=Tạo mới
+open=Lấy có sẵn
+currentModelDesign=Design model hiện tại
+draw=Vẽ
+on=Bật
+off=Tắt
+save=Lưu
+originalImage=Ảnh gốc
+processingImage=Ảnh đã xử lý
+connection=Kết nối
+
+// Giao tiếp
+CommunicationMenu=Giao Tiếp
+selectCommunicationMenu=Chọn kiểu
+viaEthernetClient=Thông qua Ethernet Client
+viaEthernetServer=Thông qua Ethernet Server
+viaSerial=Thông qua serial port(RS-232)
+sendTest=Gửi test
+light=Đèn
+server=Server
+turnOn=Bật
+turnOff=Tắt
+test=Test
+refresh=Làm mới
+dataConfig=Data Config
+convertPosFromCad=Chuyển đổi tọa độ từ CAD sang CSV
+
+// Result Frame
+serialNo=S/N:
+okLbl=OK:
+ngTorque=NG Lực:
+ngHeight=NG Chiều cao:
+total=Tổng điểm:
+totalTime=Tổng thời gian:
+visionTime=Thời gian Vision:
+
+
+// Researching
+
+settingForStep=Cài đặt cho bước số {}  - {}
+sourceImage=Ảnh đầu vào
+blurSize=Blur size
+rgbTolerance=Dung sai BGR :
+baseColor=Màu cơ sở:
+showOriginalImage=Show ảnh gốc
+nonzeroThresh=Ngưỡng nonzero :
+
+// Missing Result Window
+missing_ng=NG          :
+missing_ok=OK          :
+missing_total=Tổng      :
+missing_time=Thời gian :
+missing_visionTime=Thời gian Vision :
+
+// Starting setup
+screwMachine=Screw machine
+assyMachine=Assembly machine
+missingMachine=Missing Machine
+btnConnectorScrewMachine=RU Connector
+btnRearMissingMachine=Rear
+btnFUAssemblyMachine=FU Assembly
+btnLoadFrameMachine=Load Frame
+btnFilterScrewMachine=Filter cover
+btnBack=<< Quay lại

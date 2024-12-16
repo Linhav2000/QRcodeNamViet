@@ -1,0 +1,209 @@
+﻿0,1,2
+Key,English,Tiếng Việt
+version,Version 2.1.0,Version 2.1.0
+ok,OK,OK
+exit,Exit,Thoát
+cancel,Cancel,Hủy bỏ
+yes,Yes,Đồng ý
+no,No,Từ chối
+error,Error,Lỗi
+warning,Warning,Cảnh báo
+close,Close,Đóng lại
+btnFileSelect,Select File,Chọn File
+name,Name:,Tên:
+id,ID:,ID:
+connectionType,Connection type,Kiểu kết nối
+brand,Brand,Nhãn hiệu
+rotateCamera,Rotate:,Xoay ảnh:
+flipCamera,Flip:,Lật ảnh:
+settingCamera,Setting Camera,Cài đặt camera
+cameraChangeTitle,Change Camera,Đổi Camera
+settingLightConnection,Setting Connection,Cài đặt kết nối
+lightSettingTitle,Setting Light,Cài đặt đèn
+channelAmount,Channel Amount,Số lượng kênh
+settingLightValue,Setting Value,Cài đặt giá trị
+saveLightValue,Save light value,Lưu giá trị đèn
+advanceActiveTitle,Active Points Advanced Setting,Cài đặt điểm hoạt động nâng cao
+selectAll,Select all,Chọn tất cả
+point,Point,Điểm số
+cadInputPath,CAD input path:,Đường dẫn file CAD:
+csvOutputPath,CSV output path:,Đường dẫn file CSV:
+convert,Convert,Chuyển đổi
+msg_noCADFile,Please choose the CAD file first!,Chưa chọn file CAD đầu vào
+msg_convertSuccessfully,Convert successfully!,Chuyển đổi thành công
+msg_noFileCSVOutput,Please select output file path first!,Chưa chọn file CSV đầu ra
+msg_noPointConverted,The data is empty,Không thấy có điểm nào để lưu
+msg_saveDataSuccessfully,Save data successfully!,Lưu dữ liệu thành công
+plcStatusLbl,PLC Status:,Trạng Thái PLC
+cameraStatusLbl,Camera Status:,Trạng Thái Camera:
+serverStatusLbl,Server Status:,Trạng Thái Server:
+lightStatusLbl,Light Status:,Trạng Thái Đèn:
+parameter,Parameter,Cài đặt thông số
+modelNameLbl,Model name:,Tên Model:
+model name, Model name:,Tên Model:
+ref1Lbl,RefPoint 1:,Điểm gốc 1:
+ref2Lbl,RefPoint 2:,Điểm gốc 2:
+ref3Lbl,RefPoint 3:,Điểm gốc 3:
+offsetPointLbl,Offset Point:,Điểm offset:
+offsetParmLbl,Offset:,Giá trị offset:
+conversionLbl,From pixel to mm:,Hệ số pixel sang mm:
+designPathLbl,Design file path:,File design:
+activeFromLbl,Active Points: From,Điểm hoạt động từ:
+activeToLbl,To,đến
+threshLbl,Thresh Value:,Ngưỡng Ánh sáng:
+ref1SelectBtn,Select,Chọn
+ref2SelectBtn,Select,Chọn
+ref3SelectBtn,Select,Chọn
+offsetPointSelectBtn,Select,Chọn
+calibrationOffsetBtn,Calibrate Offset,Hiệu chuẩn Offset
+getOffsetBtn,Get Offset,Lấy Offset
+designFileSelect,Select File,Chọn File
+advanceActiveBtn,Advance,Nâng cao
+visionSettingBtn,Vision Setting,Cài đặt Vision
+modelTestBtn,Model Test,Kiểm thử model
+saveBtn,Save,Lưu
+addNewModelBtn,Add New Model,Thêm mới Model
+deleteBtn,Delete,Xóa
+btnTakeCoefficient,Take Coefficient,Lấy hệ số
+visionSetting,Vision Setting,Cài đặt Vision
+title_noPointExisted,Reference position select,Reference position select
+msg_title_noPointExisted,"There is no position existed, please check the design file path!","There is no position existed, please check the design file path!"
+title_saveModel,Save Model,Lưu Model
+msg_saveModel,"Do you want to save changes for model ""{}""?","Bạn có muốn lưu thay đổi của model ""{}""?"
+ruRef1Lbl,RU Ref point 1:,Điểm gốc RU 1:
+ruRef2Lbl,RU Ref point 2:,Điểm gốc RU 2:
+fuRef1Lbl,FU Ref point 1:,Điểm gốc FU 1:
+fuRef2Lbl,FU Ref point 2:,Điểm gốc FU 2:
+CaliRuOffsetBtn,Calibrate RU Offset,Hiệu chuẩn RU Offset
+CaliFuOffsetBtn,Calibrate FU Offset,Hiệu chuẩn FU Offset
+conversionRuLbl,Pixel to mm RU:,Pixel sang mm RU:
+conversionFuLbl,Pixel to mm FU:,Pixel sang mm FU:
+btnTakeRuCoefficient,Take coefficient RU,Lấy hệ số RU
+btnTakeFuCoefficient,Take coefficient FU,Lấy hệ số FU
+camera,Camera,Camera
+setting,Setting,Cài đặt
+connect,Connect,Kết nối
+disconnect,Disconnect,Ngắt kết nối
+capturePicture,Capture Picture,Chụp ảnh
+captureVideo,Capture Video,Quay Video
+stopCaptureVideo,Stop capture video,Dừng quay video
+image,Image,Ảnh
+new,New,Mới
+blackImage,Black Image,Ảnh đen
+whiteImage,White Image,Ảnh trắng
+open,Open,Lấy có sẵn
+currentModelDesign,Current Model Design,Design model hiện tại
+draw,Draw,Vẽ
+on,On,Bật
+off,Off,Tắt
+save,Save,Lưu
+originalImage,Original Image,Ảnh gốc
+processingImage,Processing Image,Ảnh đã xử lý
+connection,Connection,Kết nối
+CommunicationMenu,Communication,Giao Tiếp
+selectCommunicationMenu,Select Type,Chọn kiểu
+viaEthernetClient,Via Ethernet Client,Thông qua Ethernet Client
+viaEthernetServer,Via Ethernet Server,Thông qua Ethernet Server
+viaSerial,Via Serial,Thông qua serial port(RS-232)
+sendTest,Send Test,Gửi test
+light,Light,Đèn
+server,Server,Server
+turnOn,Turn On,Bật
+turnOff,Turn Off,Tắt
+test,Test,Test
+refresh,Refresh,Làm mới
+dataConfig,Data Config,Cài đặt dữ liệu
+convertPosFromCad,Convert Position from CAD to CSV,Chuyển đổi tọa độ từ CAD sang CSV
+serialNo,S/N:,S/N:
+okLbl,OK:,OK:
+ngTorque,NG Torque:,NG Lực:
+ngHeight,NG Height:,NG Chiều cao:
+total,Total:,Tổng điểm:
+totalTime,Total Time:,Tổng thời gian:
+visionTime,Vision Time:,Thời gian Vision:
+settingForStep,Setting for step {} - {},Cài đặt cho bước số {}  - {}
+sourceImage,Source Image,Ảnh đầu vào
+blurSize,Blur size,Blur size
+rgbTolerance,RBG Tolerance,Dung sai BGR :
+baseColor,Base Color,Màu cơ sở:
+showOriginalImage,Show original image,Hiện ảnh gốc
+nonzeroThresh,Nonzero thresh,Ngưỡng nonzero :
+screwMachine,Screw machine,Máy bắn ốc
+assyMachine,Assembly machine,Máy lắp ráp
+missingMachine,Missing Machine,Máy kiểm tra thiếu
+btnConnectorScrewMachine,RU Connector,Máy RU
+btnRearMissingMachine,Rear,Máy REAR
+btnFilterScrewMachine,Filter cover,Filter cover
+btnFUAssemblyMachine,FU Assembly,FU Assembly
+btnLoadFrameMachine,Load Frame,Load Frame
+btnBack,<< Back,<< Quay lại
+missing_ng,NG         :,NG         :
+missing_ok,OK         :,OK         :
+missing_total,Total     :,Tổng     :
+missing_time,Time :,Thời gian :
+missing_visionTime,Vision Time :,Thời gian xử lý ảnh :
+LanguagesMenu,Languages,Ngôn ngữ
+cameraSelect,Select camera,Chọn camera
+Calibration,Calibration,Hiệu chỉnh
+loadFeature,Load config,Tải đặc tính
+available,Available,Có sẵn
+new,New,Mới
+runningModel,Running Model,Model đang chạy
+selectModel,Select model,Chọn Model
+resultTab,Result,Kết quả
+manualTab,Manual,Điều khiển thủ công
+processedImage,Processed Image,Ảnh sau xử lý
+printLog,Print Log,In Log
+ddkResult,DDK Result,Kết quả DDK
+currentStation,Current station:,Trạm hiện tại:
+currentStep,Current step:,Bước hiện tại:
+stepResult,Step result:,Kết quả bước:
+stepTactTime,Step tact time(ms):,Thời gian 1 bước(ms):
+productTactTime,Product tact time(ms):,Thời gian 1 sản phẩm(ms):
+totalOkProduct,Total OK product:,Tổng sản phẩm OK:
+totalNGProduct,Total NG product:,Tổng sản phẩm NG:
+totalProduct,Total product:,Tổng sản phẩm:
+log,Log,Log
+reset error,Reset error,Xoá báo lỗi
+zoom,Zoom+ -,Thu phóng ảnh
+zoom++,Zoom++,Phóng to
+zoom--,Zoom--,Thu nhỏ
+reset,Reset,Ảnh ban đầu
+running tab,Running,Hoạt động
+researching,Researching,Thuật toán
+model setting,Model Setting,Cài đặt model
+axis system setting,Axis System Setting,Cài đặt hệ toạ độ
+connection,Connection,Trạng thái kết nối
+step,Step,Bước
+algorithm,Algorithm :,Thuật toán
+concept,Concept,Ý tưởng
+method,Method,Phương pháp
+execute,Execute,Thực thi
+auto save,Save Image,Tự động lưu ảnh
+current model,Current model,Model hiện hành
+analysis,Analysis,Thử thuật toán
+password,Password,Mật khẩu
+enter pass,Please enter password to access!,Vui lòng nhập mật khẩu!
+left camera,Left camera :,Camera trái :
+right camera,Right camera :,Camera phải :
+option,Option,Tuỳ chọn
+show erea,Show working erea,Xem vùng làm việc
+up,Up,Đẩy lên
+down,Down,Đẩy xuống
+duplicate,Duplicate,X2 phương pháp
+insert down,Insert down,Dán xuống dưới
+model test,Model test,Thử model
+roto WR,Roto Weighing Robot,Kiểm tra Roto
+axis system,Axis System :,Hệ toạ độ :
+as name,AS Name :,Tên hệ toạ độ :
+as type,AS Type :,Kiểu toạ độ :
+coordinates type,Robot coordinates type :,Loại toạ độ robot :
+algorithm step 0,Algorithm step 0 :,Thuật toán bước 0:
+algorithm step 1,Algorithm step 1:,Thuật toán bước 1:
+multi point,Multi Point,Nhiều vị trí :
+check type,Check type :,Kiểu kiểm tra :
+delay time,Delay time  :,Thời gian trễ :
+running_tab,Running,Hoạt Động
+algorithm tab,Algorithm,Thuật Toán
+model setting,Model Setting,Cài đạt Model
+axis system setting,Axis System Setting,Hệ Trục Tọa Độ

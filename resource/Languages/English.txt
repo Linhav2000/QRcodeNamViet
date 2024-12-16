@@ -1,0 +1,179 @@
+// Common
+version=Version 2.1.0
+ok=OK
+exit=Exit
+cancel=Cancel
+yes=Yes
+no=No
+error=Error
+warning=Warning
+close=Close
+btnFileSelect=Select File
+
+// camera setting
+name=Name:
+id=ID:
+connectionType=Connection type:
+brand=Brand:
+rotateCamera=Rotate:
+flipCamera=Flip:
+settingCamera=Setting Camera
+cameraChangeTitle=Change Camera
+
+// Light Setting
+settingLightConnection=Setting Connection
+lightSettingTitle=Setting Light
+brand=Brand
+channelAmount=Channel Amount
+
+// Light setting value
+settingLightValue=Setting Value
+saveLightValue=Save light value
+
+// Active point advance setting
+advanceActiveTitle=Active Points Advanced Setting
+selectAll=Select all
+point=Point
+
+// covert CAD to CSV
+cadInputPath=CAD input path:
+csvOutputPath=CSV output path:
+convert=Convert
+msg_noCADFile=Please choose the CAD file first!
+msg_convertSuccessfully=Convert successfully!
+msg_noFileCSVOutput=Please select output file path first!
+msg_noPointConverted=The data is empty\nMake sure that you convert already or check the file path!
+msg_saveDataSuccessfully=Save data successfully!
+
+// Running Tab
+plcStatusLbl=PLC Status:
+cameraStatusLbl=Camera Status:
+serverStatusLbl=Server Status:
+lightStatusLbl=Light Status:
+
+//Model Setting
+parameter=Parameter
+modelNameLbl=Model name:
+ref1Lbl=RefPoint 1:
+ref2Lbl=RefPoint 2:
+ref3Lbl=RefPoint 3:
+offsetPointLbl=Offset Point:
+offsetParmLbl=Offset:
+conversionLbl=From pixel to mm:
+designPathLbl=Design file path:
+activeFromLbl=Active Points: From
+activeToLbl=To
+threshLbl=Thresh Value:
+ref1SelectBtn=Select
+ref2SelectBtn=Select
+ref3SelectBtn=Select
+offsetPointSelectBtn=Select
+calibrationOffsetBtn=Calibrate Offset
+getOffsetBtn=Get Offset
+designFileSelect=Select File
+advanceActiveBtn=Advance
+visionSettingBtn=Vision Setting
+modelTestBtn=Model Test
+saveBtn=Save
+addNewModelBtn=Add New Model
+deleteBtn=Delete
+btnTakeCoefficient=Take Coefficient
+
+visionSetting=Vision Setting
+title_noPointExisted=Reference position select
+msg_title_noPointExisted=There is no position existed, please check the design file path!
+title_saveModel=Save Model
+msg_saveModel=Do you want to save changes for model "{}"?
+
+// RU assembly:
+ruRef1Lbl=RU Ref point 1:
+ruRef2Lbl=RU Ref point 2:
+fuRef1Lbl=FU Ref point 1:
+fuRef2Lbl=FU Ref point 2:
+CaliRuOffsetBtn=Calibrate RU Offset
+CaliFuOffsetBtn=Calibrate FU Offset
+conversionRuLbl=Pixel to mm RU:
+conversionFuLbl=Pixel to mm FU:
+btnTakeRuCoefficient=Take coefficient RU
+btnTakeFuCoefficient=Take coefficient FU
+
+//Main Window
+camera=Camera
+setting=Setting
+connect=Connect
+disconnect=Disconnect
+capturePicture=Capture Picture
+captureVideo=Capture Video
+stopCaptureVideo=Stop capture video
+image=Image
+new=New
+blackImage=Black Image
+whiteImage=White Image
+open=Open
+currentModelDesign=Current Model Design
+draw=Draw
+on=On
+off=Off
+save=Save
+originalImage=Original Image
+processingImage=Processing Image
+connection=Connection
+
+// Communication
+CommunicationMenu=Communication
+selectCommunicationMenu=Select Type
+viaEthernetClient=Via Ethernet Client
+viaEthernetServer=Via Ethernet Server
+sendTest=Send Test
+viaSerial=Via Serial
+light=Light
+server=Server
+turnOn=Turn On
+turnOff=Turn Off
+test=Test
+refresh=Refresh
+dataConfig=Data Config
+convertPosFromCad=Convert Position from CAD to CSV
+
+// Result Frame
+serialNo=S/N:
+okLbl=OK:
+ngTorque=NG Torque:
+ngHeight=NG Height:
+total=Total:
+totalTime=Total Time:
+visionTime=Vision Time:
+
+// Researching
+
+settingForStep=Setting for step {} - {}
+sourceImage=Source Image
+blurSize=Blur size
+rgbTolerance=RBG Tolerance
+baseColor=Base Color
+showOriginalImage=Show original image
+nonzeroThresh=Nonzero thresh
+
+// Starting setup
+screwMachine=Screw machine
+assyMachine=Assembly machine
+missingMachine=Missing Machine
+btnConnectorScrewMachine=RU Connector
+btnRearMissingMachine=Rear
+btnFilterScrewMachine=Filter cover
+btnFUAssemblyMachine=FU Assembly
+btnLoadFrameMachine=Load Frame
+btnBack=<< Back
+
+
+// Missing Result Window
+missing_ng=NG         :
+missing_ok=OK         :
+missing_total=Total     :
+missing_time=Time :
+missing_visionTime=Vision Time :
+
+
+// Error message
+
+
