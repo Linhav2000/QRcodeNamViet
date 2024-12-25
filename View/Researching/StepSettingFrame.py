@@ -14,7 +14,7 @@ from Modules.ModelSetting.ComboForFlexibleValue import ComboForFlexibleValue
 from Modules.ModelSetting.ComboForFixValue import ComboForFixValue
 from Modules.ModelSetting.AdjustValueFrame import AdjustValueFrame
 from Modules.ModelSetting.SourceInput import SourceInput
-import pytesseract
+# import pytesseract
 
 from View.Common.VisionUI import *
 

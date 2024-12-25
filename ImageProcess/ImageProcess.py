@@ -7,7 +7,7 @@ from tkinter import messagebox
 from Modules.Camera.CameraParameter import CameraRotate
 from pyzbar import pyzbar
 from pylibdmtx import pylibdmtx
-import pytesseract
+# import pytesseract
 import threading
 from imutils.object_detection import non_max_suppression
 from multiprocessing import Process,  Queue, Lock
@@ -1049,7 +1049,7 @@ def get_intersect_from_2_lines(line1, line2):
         return float('inf'), float('inf')
     return x/z, y/z
 
-from sklearn.linear_model import LinearRegression
+# from sklearn.linear_model import LinearRegression
 def sk_learn_lr(x, y):
     """
     :param x: list of x value with shape (-1,1)
